@@ -1,4 +1,4 @@
-﻿namespace DMU_Mobile_Testing
+﻿namespace DMUMobilesClasses1
 {
     public class clsCustomer
     {

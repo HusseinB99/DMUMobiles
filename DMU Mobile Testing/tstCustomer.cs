@@ -1,4 +1,5 @@
 ﻿using System;
+using DMUMobilesClasses1;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DMU_Mobile_Testing
@@ -12,5 +13,10 @@ namespace DMU_Mobile_Testing
             clsCustomer AnCustomer = new clsCustomer();
             Assert.IsNotNull(AnCustomer);
         }
+
+        //here
+
+
+
     }
 }
