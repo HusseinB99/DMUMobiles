@@ -92,7 +92,7 @@ namespace DMUMobilesClasses1
         public bool Find(int StockID)
         {
             mStockType = "Special Offer";
-            mStockStatus = "Arrived";
+            mStockStatus = "Active";
             mStockNumber = 99;
             mStockDesc = "iPhone 7 red";
             mDateAdded = Convert.ToDateTime("15/02/2020");
