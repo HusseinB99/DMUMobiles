@@ -74,7 +74,7 @@ namespace DMU_Mobile_Testing
         public void StockStatusPropertyOK()
         {
             clsStock aStock = new clsStock();
-            string TestData = "Arrived";
+            string TestData = "Active";
             aStock.StockStatus = TestData;
             Assert.AreEqual(aStock.StockStatus, TestData);
         }
